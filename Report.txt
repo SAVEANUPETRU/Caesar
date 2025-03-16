@@ -1,0 +1,11 @@
+                                            Report about Caesar cipher
+
+After testing all methods on 138 different texts with all possible shifts I can conclude that:
+-it is almost the same for every shift from 1 to 25,I tried to see how many texts will the functions decode, and for every shift, the answer is about 132 or 131.
+-as a little surprise,if the code is actually not encrypted, the shift is 0, the function will fail every time
+-the algorith decode almost every long text, but has some problem with the smallest ones, because a small text will not respect the distribution
+-the distribution becomes almost perfect when the length of text tends to infinity, so for small words like cat,red the functions will probably fail,there exceptions(tea, contains all the most expected letters,so it will be decoded)
+-the functions solved every encryption with over 50 characters
+-even if the results were almost the same for every function, the chi_squared_distance was a bit better,so I would choose it to decode
+-in general, the chi_squared solved 132 out of 138, and the other 131 out of 138
+///SORRY FOR CREATING ALL THE FUNCTIONS IN ONE FILE,I WILL WRITE CLEANER CODE IN THE EXAM

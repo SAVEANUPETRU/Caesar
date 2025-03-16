@@ -1,0 +1,416 @@
+Text: tea
+  Shift: 2  Most probable text: tea
+
+Text: Cat
+  Shift: 12  Most probable text: Nle
+
+Text: Word
+  Shift: 5  Most probable text: Meht
+
+Text: House
+  Shift: 19  Most probable text: House
+
+Text: Animal
+  Shift: 3  Most probable text: Sfaesd
+
+Text: Planetary
+  Shift: 23  Most probable text: Planetary
+
+Text: Gravitational
+  Shift: 14  Most probable text: Gravitational
+
+Text: Physics theories
+  Shift: 8  Most probable text: Physics theories
+
+Text: Quantum mechanics
+  Shift: 21  Most probable text: Quantum mechanics
+
+Text: Electron transfer
+  Shift: 7  Most probable text: Electron transfer
+
+Text: Neutron diffraction
+  Shift: 25  Most probable text: Neutron diffraction
+
+Text: Molecular biology
+  Shift: 2  Most probable text: Fhexvnetk ubhehzr
+
+Text: Chemical reactions
+  Shift: 11  Most probable text: Chemical reactions
+
+Text: Reaction kinetics
+  Shift: 9  Most probable text: Reaction kinetics
+
+Text: Momentum conservation
+  Shift: 4  Most probable text: Momentum conservation
+
+Text: Velocity calculations
+  Shift: 22  Most probable text: Velocity calculations
+
+Text: Universal constants
+  Shift: 16  Most probable text: Universal constants
+
+Text: Satellite communications
+  Shift: 0  Most probable text: Satellite communications
+
+Text: Astronomy discoveries
+  Shift: 13  Most probable text: Astronomy discoveries
+
+Text: Blackhole singularities
+  Shift: 6  Most probable text: Blackhole singularities
+
+Text: Cosmic expansion theories
+  Shift: 20  Most probable text: Cosmic expansion theories
+
+Text: Relativity principles
+  Shift: 1  Most probable text: Nahwperepu lnejyelhao
+
+Text: Singularity analysis
+  Shift: 18  Most probable text: Singularity analysis
+
+Text: Galactic evolution studies
+  Shift: 10  Most probable text: Galactic evolution studies
+
+Text: Cosmology fundamentals
+  Shift: 17  Most probable text: Cosmology fundamentals
+
+Text: Space exploration missions
+  Shift: 15  Most probable text: Space exploration missions
+
+Text: Observation techniques
+  Shift: 24  Most probable text: Observation techniques
+
+Text: Astronautical advancements
+  Shift: 12  Most probable text: Astronautical advancements
+
+Text: Interstellar travel concepts
+  Shift: 3  Most probable text: Interstellar travel concepts
+
+Text: Extraterrestrial intelligence
+  Shift: 5  Most probable text: Extraterrestrial intelligence
+
+Text: Astrobiological research topics
+  Shift: 19  Most probable text: Astrobiological research topics
+
+Text: Thermodynamic laws and applications
+  Shift: 8  Most probable text: Thermodynamic laws and applications
+
+Text: Electromagnetic field interactions
+  Shift: 21  Most probable text: Electromagnetic field interactions
+
+Text: Superconductivity in materials
+  Shift: 7  Most probable text: Superconductivity in materials
+
+Text: Spectroscopic data analysis
+  Shift: 25  Most probable text: Spectroscopic data analysis
+
+Text: Nanotechnology in medicine
+  Shift: 2  Most probable text: Nanotechnology in medicine
+
+Text: Bioengineering in modern science
+  Shift: 11  Most probable text: Bioengineering in modern science
+
+Text: Biotechnological advancements today
+  Shift: 9  Most probable text: Biotechnological advancements today
+
+Text: Artificial Intelligence applications
+  Shift: 4  Most probable text: Artificial Intelligence applications
+
+Text: Machine Learning models development
+  Shift: 22  Most probable text: Machine Learning models development
+
+Text: Deep Learning algorithms improvement
+  Shift: 16  Most probable text: Deep Learning algorithms improvement
+
+Text: Neural Networks and deep structures
+  Shift: 0  Most probable text: Neural Networks and deep structures
+
+Text: Quantum Computing potential future
+  Shift: 13  Most probable text: Quantum Computing potential future
+
+Text: Cryptographic security advancements
+  Shift: 6  Most probable text: Cryptographic security advancements
+
+Text: Cybersecurity risk assessment protocols
+  Shift: 20  Most probable text: Cybersecurity risk assessment protocols
+
+Text: Information Theory and data compression
+  Shift: 1  Most probable text: Information Theory and data compression
+
+Text: Algorithm Design efficiency analysis
+  Shift: 18  Most probable text: Algorithm Design efficiency analysis
+
+Text: Data Structures for fast retrieval
+  Shift: 10  Most probable text: Data Structures for fast retrieval
+
+Text: Software Engineering best practices
+  Shift: 17  Most probable text: Software Engineering best practices
+
+Text: Computer Graphics rendering techniques
+  Shift: 15  Most probable text: Computer Graphics rendering techniques
+
+Text: Virtual Reality immersive experiences
+  Shift: 24  Most probable text: Renpqwh Nawhepu eiianoera atlaneajyao
+
+Text: Augmented Reality in education
+  Shift: 12  Most probable text: Augmented Reality in education
+
+Text: Human-Computer Interaction evolution
+  Shift: 3  Most probable text: Human-Computer Interaction evolution
+
+Text: Natural Language Processing efficiency
+  Shift: 5  Most probable text: Natural Language Processing efficiency
+
+Text: Computational Linguistics applications
+  Shift: 19  Most probable text: Computational Linguistics applications
+
+Text: Cognitive Science and AI modeling
+  Shift: 8  Most probable text: Cognitive Science and AI modeling
+
+Text: Neuroscience and brain activity studies
+  Shift: 21  Most probable text: Neuroscience and brain activity studies
+
+Text: Genetic Algorithms optimization methods
+  Shift: 7  Most probable text: Genetic Algorithms optimization methods
+
+Text: Evolutionary Computation real-world uses
+  Shift: 25  Most probable text: Evolutionary Computation real-world uses
+
+Text: Mathematical Modeling in sciences
+  Shift: 2  Most probable text: Mathematical Modeling in sciences
+
+Text: Differential Equations solving techniques
+  Shift: 11  Most probable text: Differential Equations solving techniques
+
+Text: Statistical Mechanics in physics
+  Shift: 9  Most probable text: Statistical Mechanics in physics
+
+Text: Bayesian Inference in probability
+  Shift: 4  Most probable text: Bayesian Inference in probability
+
+Text: Computational Complexity classification
+  Shift: 22  Most probable text: Computational Complexity classification
+
+Text: Graph Theory in computer science
+  Shift: 16  Most probable text: Graph Theory in computer science
+
+Text: Number Theory and prime numbers
+  Shift: 0  Most probable text: Number Theory and prime numbers
+
+Text: Abstract Algebra for cryptography
+  Shift: 13  Most probable text: Nofgenpg Nytroen sbe pelcgbtencul
+
+Text: Topology in mathematical sciences
+  Shift: 6  Most probable text: Topology in mathematical sciences
+
+Text: Differential Geometry in physics
+  Shift: 20  Most probable text: Differential Geometry in physics
+
+Text: Mathematical Logic proofs techniques
+  Shift: 1  Most probable text: Mathematical Logic proofs techniques
+
+Text: Set Theory foundations of mathematics
+  Shift: 18  Most probable text: Set Theory foundations of mathematics
+
+Text: Category Theory abstract structures
+  Shift: 10  Most probable text: Category Theory abstract structures
+
+Text: Functional Analysis in applied math
+  Shift: 17  Most probable text: Functional Analysis in applied math
+
+Text: Nonlinear Dynamics and chaos theory
+  Shift: 15  Most probable text: Nonlinear Dynamics and chaos theory
+
+Text: Fractal Geometry in nature patterns
+  Shift: 24  Most probable text: Fractal Geometry in nature patterns
+
+Text: Geometric Topology in three dimensions
+  Shift: 12  Most probable text: Geometric Topology in three dimensions
+
+Text: Combinatorial Optimization in scheduling
+  Shift: 3  Most probable text: Combinatorial Optimization in scheduling
+
+Text: Operations Research problem solving
+  Shift: 5  Most probable text: Operations Research problem solving
+
+Text: Game Theory in strategic decisions
+  Shift: 19  Most probable text: Game Theory in strategic decisions
+
+Text: Economic Modeling and simulations
+  Shift: 8  Most probable text: Economic Modeling and simulations
+
+Text: Beauty is in the eye of the beholder.
+  Shift: 0  Most probable text: Beauty is in the eye of the beholder.
+
+Text: A picture is worth a thousand words.
+  Shift: 25  Most probable text: A picture is worth a thousand words.
+
+Text: Beauty is in the eye of the beholder.
+  Shift: 2  Most probable text: Beauty is in the eye of the beholder.
+
+Text: Practice makes perfect.
+  Shift: 21  Most probable text: Practice makes perfect.
+
+Text: A friend in need is a friend indeed.
+  Shift: 24  Most probable text: A friend in need is a friend indeed.
+
+Text: What doesn't kill you makes you stronger.
+  Shift: 4  Most probable text: What doesn't kill you makes you stronger.
+
+Text: To err is human; to forgive, divine.
+  Shift: 18  Most probable text: To err is human; to forgive, divine.
+
+Text: Practice makes perfect.
+  Shift: 17  Most probable text: Practice makes perfect.
+
+Text: A watched pot never boils.
+  Shift: 19  Most probable text: A watched pot never boils.
+
+Text: You can't judge a book by its cover.
+  Shift: 13  Most probable text: You can't judge a book by its cover.
+
+Text: All that glitters is not gold.
+  Shift: 1  Most probable text: All that glitters is not gold.
+
+Text: To err is human; to forgive, divine.
+  Shift: 5  Most probable text: To err is human; to forgive, divine.
+
+Text: The quick brown fox jumps over the lazy dog.
+  Shift: 8  Most probable text: The quick brown fox jumps over the lazy dog.
+
+Text: A watched pot never boils.
+  Shift: 23  Most probable text: A watched pot never boils.
+
+Text: Knowledge is power.
+  Shift: 14  Most probable text: Knowledge is power.
+
+Text: The pen is mightier than the sword.
+  Shift: 11  Most probable text: The pen is mightier than the sword.
+
+Text: If it ain't broke, don't fix it.
+  Shift: 22  Most probable text: If it ain't broke, don't fix it.
+
+Text: When in Rome, do as the Romans do.
+  Shift: 10  Most probable text: When in Rome, do as the Romans do.
+
+Text: The quick brown fox jumps over the lazy dog.
+  Shift: 6  Most probable text: The quick brown fox jumps over the lazy dog.
+
+Text: You can't judge a book by its cover.
+  Shift: 7  Most probable text: You can't judge a book by its cover.
+
+Text: Financial Mathematics in risk analysis
+  Shift: 21  Most probable text: Financial Mathematics in risk analysis
+
+Text: Risk Management and investment strategies
+  Shift: 7  Most probable text: Risk Management and investment strategies
+
+Text: Actuarial Science for insurance modeling
+  Shift: 25  Most probable text: Actuarial Science for insurance modeling
+
+Text: Stochastic Processes in finance
+  Shift: 2  Most probable text: Stochastic Processes in finance
+
+Text: Monte Carlo Simulation for predictions
+  Shift: 11  Most probable text: Monte Carlo Simulation for predictions
+
+Text: Dynamical Systems and stability analysis
+  Shift: 9  Most probable text: Dynamical Systems and stability analysis
+
+Text: Control Theory and automation systems
+  Shift: 4  Most probable text: Control Theory and automation systems
+
+Text: Cybernetics and system feedback controls
+  Shift: 22  Most probable text: Cybernetics and system feedback controls
+
+Text: Robotics advancements in industry
+  Shift: 16  Most probable text: Robotics advancements in industry
+
+Text: Mechatronics and automation engineering
+  Shift: 0  Most probable text: Mechatronics and automation engineering
+
+Text: Artificial Vision and image processing
+  Shift: 13  Most probable text: Artificial Vision and image processing
+
+Text: Pattern Recognition and AI development
+  Shift: 6  Most probable text: Pattern Recognition and AI development
+
+Text: Signal Processing for audio analysis
+  Shift: 20  Most probable text: Signal Processing for audio analysis
+
+Text: Embedded Systems in real-time processing
+  Shift: 1  Most probable text: Embedded Systems in real-time processing
+
+Text: IoT Applications in smart technologies
+  Shift: 18  Most probable text: IoT Applications in smart technologies
+
+Text: Cloud Computing and distributed storage
+  Shift: 10  Most probable text: Cloud Computing and distributed storage
+
+Text: Big Data Analytics for decision making
+  Shift: 17  Most probable text: Big Data Analytics for decision making
+
+Text: Blockchain Technology and secure transactions
+  Shift: 15  Most probable text: Blockchain Technology and secure transactions
+
+Text: Cryptocurrency market analysis tools
+  Shift: 24  Most probable text: Cryptocurrency market analysis tools
+
+Text: Smart Contracts and decentralized finance
+  Shift: 12  Most probable text: Smart Contracts and decentralized finance
+
+Text: Distributed Systems and cloud computing frameworks
+  Shift: 3  Most probable text: Distributed Systems and cloud computing frameworks
+
+Text: Parallel Computing and multi-threading approaches
+  Shift: 5  Most probable text: Parallel Computing and multi-threading approaches
+
+Text: High-Performance Computing in scientific research
+  Shift: 19  Most probable text: High-Performance Computing in scientific research
+
+Text: Edge Computing for real-time data processing
+  Shift: 8  Most probable text: Edge Computing for real-time data processing
+
+Text: Quantum Information Science and entanglement theory
+  Shift: 21  Most probable text: Quantum Information Science and entanglement theory
+
+Text: Post-Quantum Cryptography for future security
+  Shift: 7  Most probable text: Post-Quantum Cryptography for future security
+
+Text: Computational Neuroscience and brain simulations
+  Shift: 25  Most probable text: Computational Neuroscience and brain simulations
+
+Text: Bioinformatics in genetic research and analysis
+  Shift: 2  Most probable text: Bioinformatics in genetic research and analysis
+
+Text: Artificial intelligence is transforming modern industries by enhancing efficiency, reducing human effort, and providing insights through data analysis.
+  Shift: 12  Most probable text: Artificial intelligence is transforming modern industries by enhancing efficiency, reducing human effort, and providing insights through data analysis.
+
+Text: Machine learning algorithms help in decision-making by identifying patterns and predicting future trends based on historical data.
+  Shift: 5  Most probable text: Machine learning algorithms help in decision-making by identifying patterns and predicting future trends based on historical data.
+
+Text: Quantum computing is a revolutionary technology that leverages the principles of quantum mechanics to perform complex calculations exponentially faster than classical computers.
+  Shift: 19  Most probable text: Quantum computing is a revolutionary technology that leverages the principles of quantum mechanics to perform complex calculations exponentially faster than classical computers.
+
+Text: Cybersecurity is crucial in protecting sensitive data from unauthorized access, cyberattacks, and breaches, ensuring confidentiality, integrity, and availability of information.
+  Shift: 3  Most probable text: Cybersecurity is crucial in protecting sensitive data from unauthorized access, cyberattacks, and breaches, ensuring confidentiality, integrity, and availability of information.
+
+Text: The human brain consists of billions of neurons interconnected to process information, control bodily functions, and facilitate learning, memory, and cognition.
+  Shift: 23  Most probable text: The human brain consists of billions of neurons interconnected to process information, control bodily functions, and facilitate learning, memory, and cognition.
+
+Text: Renewable energy sources, such as solar, wind, and hydroelectric power, play a vital role in reducing carbon emissions and promoting sustainability in a rapidly changing climate.
+  Shift: 14  Most probable text: Renewable energy sources, such as solar, wind, and hydroelectric power, play a vital role in reducing carbon emissions and promoting sustainability in a rapidly changing climate.
+
+Text: The universe is vast, composed of galaxies, stars, and planets, governed by the laws of physics and constantly expanding due to the effects of dark energy.
+  Shift: 8  Most probable text: The universe is vast, composed of galaxies, stars, and planets, governed by the laws of physics and constantly expanding due to the effects of dark energy.
+
+Text: Genetic engineering enables scientists to modify DNA sequences, leading to advancements in medicine, agriculture, and biotechnology, revolutionizing how we approach genetic diseases.
+  Shift: 21  Most probable text: Genetic engineering enables scientists to modify DNA sequences, leading to advancements in medicine, agriculture, and biotechnology, revolutionizing how we approach genetic diseases.
+
+Text: Blockchain technology provides decentralized, secure, and transparent transactions, eliminating the need for intermediaries and enhancing security in financial operations worldwide.
+  Shift: 7  Most probable text: Blockchain technology provides decentralized, secure, and transparent transactions, eliminating the need for intermediaries and enhancing security in financial operations worldwide.
+
+Text: Space exploration has expanded humanity’s knowledge of the cosmos, leading to the discovery of exoplanets, black holes, and the potential for extraterrestrial life beyond Earth.
+  Shift: 25  Most probable text: Space exploration has expanded humanity’s knowledge of the cosmos, leading to the discovery of exoplanets, black holes, and the potential for extraterrestrial life beyond Earth.
+
+Number of texts decrypted: 126 out of 138
+Score made by size of texts: 5607
